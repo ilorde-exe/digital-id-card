@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export default function Header() {
   return (
     <>
-      <img src="/souls.jpg" alt="profile picture" className="card-image" />
+      <img src="souls.jpg" alt="profile picture" className="card-image" />
       <h1>ilorde</h1>
       <h4>Frontend Developer</h4>
       <h6>ilorde-exe.website</h6>
